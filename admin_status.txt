@@ -1,2 +1,2 @@
-block_macro=False
-message=
+block_macro=false
+message=Macro activée, go go go !
