@@ -1,2 +1,3 @@
+current_version=1.2.0
 block_macro=false
-message=
+message=Salut Tim, ta macro est à jour !
