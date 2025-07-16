@@ -1,2 +1,2 @@
 block_macro=false
-message=salut
+message=
