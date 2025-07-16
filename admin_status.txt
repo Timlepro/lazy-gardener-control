@@ -1,2 +1,2 @@
-block_macro=true
-message=Test désactivation macro
+block_macro=false
+message=salut
