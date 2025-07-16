@@ -1,2 +1,2 @@
-block_macro=false
+block_macro=False
 message=
