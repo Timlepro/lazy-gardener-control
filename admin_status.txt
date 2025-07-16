@@ -1,2 +1,2 @@
-block_macro=true
+block_macro=false
 message=Yo Tim ! La macro est désactivée pour MAJ 💥
